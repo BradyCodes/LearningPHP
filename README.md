@@ -1,1 +1,9 @@
 # LearningPHP
+
+********
+IGNORE THIS!!!
+ITS JUST A 
+PERSONAL PROJECT THAT
+I'M STORING ON 
+GITHUB!
+********
